@@ -13,3 +13,6 @@ My Mixtape
 - When user is logged in, they can save a playlist to their Spotify account
 4. Stretch Goals
 - User can annotate playlist/songs
+
+# Wireframe
+<img src="wireframe.png" />
