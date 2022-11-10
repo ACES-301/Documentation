@@ -21,4 +21,5 @@ My Mixtape
 
 # Database Schema
 <img src="Database Schema.png" />
+
 [View Database Schema](https://www.figma.com/file/P5vgHJaR7vauYDczwkTilQ/Database-Schema?node-id=0%3A1)
