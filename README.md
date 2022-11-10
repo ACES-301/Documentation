@@ -16,3 +16,5 @@ My Mixtape
 
 # Wireframe
 <img src="wireframe.png" />
+
+[View Wireframe](https://www.figma.com/file/xIQELg7FpG63FYMe30BXL6/My-Mixtape-Wireframe?node-id=0%3A1)
