@@ -19,6 +19,16 @@ My Mixtape
 
 [View Wireframe](https://www.figma.com/file/xIQELg7FpG63FYMe30BXL6/My-Mixtape-Wireframe?node-id=0%3A1)
 
+# User Stories
+
+[View User Stories and Kanban](https://github.com/orgs/ACES-301/projects/1/views/1)
+
+# Domain Model
+
+[View Domain Model](https://www.figma.com/file/4WPfVdQQkfS8Ul62t6Bfnm/My-Mixtape-Domain-Model?node-id=0%3A1)
+
+<img src="domainmodel.png" />
+
 # Database Schema
 <img src="databaseschema.png" />
 
