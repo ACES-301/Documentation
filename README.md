@@ -20,6 +20,6 @@ My Mixtape
 [View Wireframe](https://www.figma.com/file/xIQELg7FpG63FYMe30BXL6/My-Mixtape-Wireframe?node-id=0%3A1)
 
 # Database Schema
-<img src="Database Schema.png" />
+<img src="databaseschema.png" />
 
 [View Database Schema](https://www.figma.com/file/P5vgHJaR7vauYDczwkTilQ/Database-Schema?node-id=0%3A1)
