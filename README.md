@@ -1,7 +1,9 @@
 # Documentation
 Documentation Repository
 
-My Mixtape
+### [Deployed Site](https://mymixtape.netlify.app/)
+
+# My Mixtape
 
 1. Summary of idea: Full-stack application that provides a user a variety of input selections such as keywords, genre, danceability, etc, and utilizes the user input to generate a playlist and save the playlist to their Spotify account. 
 2. What problem or pain point does it solve? This application offers the user the convenience of getting an automated tailored playlist based on simple input measures.
