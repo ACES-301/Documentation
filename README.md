@@ -18,7 +18,7 @@ Full-stack application that provides a user a variety of input selections such a
  
 ![Demo2](./assets/demo2.png)
 
-![Demo3](./assets/demo2.png)
+![Demo3](./assets/demo3.png)
 
 3. Auth0 to login to Spotify
   - Auth0 and Spotify are wired up in the Express server so a user can log in using their personal Spotify account!
