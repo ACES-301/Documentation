@@ -1,22 +1,25 @@
 # My Mixtape
 
-![Demo1](./assets/demo1.png)
-
 # Overview
+
+Full-stack application that provides a user a variety of input selections such as keywords, genre, danceability, etc, and utilizes the user input to generate a playlist and save the playlist to their Spotify account. This application offers the user the convenience of getting an automated tailored playlist based on simple input measures.
 
 # Key Features & How They Work
 
-Full-stack application that provides a user a variety of input selections such as keywords, genre, danceability, etc, and utilizes the user input to generate a playlist and save the playlist to their Spotify account. 
-
-This application offers the user the convenience of getting an automated tailored playlist based on simple input measures.
  
 1. App generates a playlist based on selected data points
   - Using Spotify API data, user input connects to playlist data points like "genre" or "keyword" to find the perfect mix of songs that match your vibe.
+
+![Demo1](./assets/demo1.png)
 
 2. User can implement all CRUD operations
   - User can get generated playlists, add them to their personal saved playlists page, annotate them, and delete them.
   - These permissions are implemented using READ, CREATE, UPDATE and DELETE methods in the Express server, wired to React components on the client server
  
+![Demo2](./assets/demo2.png)
+
+![Demo3](./assets/demo2.png)
+
 3. Auth0 to login to Spotify
   - Auth0 and Spotify are wired up in the Express server so a user can log in using their personal Spotify account!
   - Saved playlists permissions are only accessible to the user who is logged in through their own Spotify account
